@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sofia Isabella! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/sofiaisabellabusch/">Cybersecurity Professional</a>
+<h1>Hi, I'm Sofia Isabella! <br/><a href="https://github.com/sofiaisabellabusch">Programmer</a>, <a href="https://www.linkedin.com/in/sofiaisabellabusch/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
